@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,SAAS,CACR,UAAU,CCFK,OAAO,CDGtB,WAAW,CEHL,OAAO,CFIb,WAAC,CACA,KAAK,CAAE,IAAI,CACX,gBAAK,CACJ,KAAK,CAAE,GAAG,CAKV,kCAAgB,CGXlB,OAAO,CAAE,KAAK,CACd,KAAK,CHWkB,KAAK,CGV5B,MAAM,CAAE,IAAI,CACZ,OAAO,CAAE,QAAQ,CACjB,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CAChB,KAAK,CAAE,IAAI,CACX,UAAU,CHKoB,KAAK,CGJnC,MAAM,CAAE,cAAc,CACtB,qBAAqB,CAAE,cAAa,CACpC,kBAAkB,CAAE,cAAa,CACjC,aAAa,CAAE,cAAa,CHG1B,mCAAiB,CGCnB,KAAK,CAAE,IAAI",
+"sources": ["sass/pages/homepage.scss","sass/modules/color.scss","sass/modules/value.scss","sass/partials/input.scss"],
+"names": [],
+"file": "style.css"
+}
